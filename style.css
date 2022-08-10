@@ -1,28 +1,3 @@
-body {
-  height: 125vh;
-  margin-top: 80px;
-  padding: 30px;
-  background-size: cover;
-  font-family: sans-serif;
-  background-color: grey;
-}
-header {
-  background-color: snow;
-  position: fixed;
-  left: 0;
-  right: 0;
-  top: 5px;
-  height: 30px;
-  display: flex;
-  align-items: center;
-  box-shadow: 0 0 25px 0 black;
-}
-.mainButton {
-  background-color: snow;
-  width: 220px;
-}
-.b{
-  background-color: lightblue;
-  width: 170px;
-  visibility:hidden;
+.display{
+  display: none;
 }
