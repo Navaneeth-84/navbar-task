@@ -40,3 +40,4 @@ b4.onclick = function () {
   window.open(linkArr[3], "_blank");
 };
 
+ 
