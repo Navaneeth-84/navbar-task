@@ -21,8 +21,9 @@ header {
   background-color: snow;
   width: 220px;
 }
-.b{
+.b {
   background-color: lightblue;
   width: 170px;
-  visibility:hidden;
+  visibility: hidden;
 }
+
