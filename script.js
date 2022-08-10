@@ -1,5 +1,5 @@
+const ele = document.querySelector(".btns");
+console.log(ele.classList);
 function makeVisibleOrHidden() {
-  const ele = document.querySelector(".b");
-  if (ele.style.display == "none") ele.style.display = "block";
-  else ele.style.display = "none";
+  ele.classList.toggle("display");
 }
